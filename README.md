@@ -45,3 +45,7 @@ El bot necesita permisos de **Ver canales, Conectar, Hablar, Silenciar, Ensordec
 - `/join` — se conecta al canal de voz del usuario.
 - `/leave` — se desconecta.
 - `/ping` — comando de prueba.
+
+## Licencia
+
+[MIT](./LICENSE)
